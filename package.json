@@ -1,5 +1,5 @@
 {
-  "name": "google-translate-api",
+  "name": "google-translate-api-gitrub",
   "version": "2.5.0",
   "description": "A free and unlimited API for Google Translate",
   "main": "index.js",
